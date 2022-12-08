@@ -1,0 +1,1 @@
+Num_1, Num_2, Num_3 = int(input('Num_1: ')), int(input('Num_2: ')), int(input('Num_3: ')); print('YES') if Num_3 - Num_2 == Num_2 - Num_1 else print('NO')

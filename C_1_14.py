@@ -1,0 +1,1 @@
+passwordfpu, passwordfpu_2 = input('Введите_пароль: '), input('Повторите_пароль: '); print('Пароль_принят ') if passwordfpu == passwordfpu_2 else print('Пароль_не_принят')
